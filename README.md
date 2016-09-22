@@ -1,3 +1,7 @@
+Logz.io Changes
+=================
+* Backported https://issues.apache.org/jira/browse/KAFKA-3594 to 0.9.0.1 since 0.9.0.2 not released yet
+
 Apache Kafka
 =================
 See our [web site](http://kafka.apache.org) for details on the project.
